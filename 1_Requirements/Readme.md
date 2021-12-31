@@ -13,5 +13,5 @@ A password generator is an application that can auto-generate passwords for you.
 |**ID**|**Description**|**Category**|
 | - | - | - |
 |LLR_01|A minimum password length of 8 characters as a general guide, but note while long passwords are good, memorability and ease of use are important criteria to consider. |Implemented|
-|LLR_O2| |Implemented|
+|LLR_O2|Password should not be easy to guess.As human beings we tend to follow the same patterns when selecting passwords – things like pet’s names, a favorite sport, or even the word 'password.'  Not to mention a sequential list of number like 123456. |Implemented|
 
