@@ -5,8 +5,8 @@ A password generator is an application that can auto-generate passwords for you.
 ### High Level Requirements
 |**ID**|**Description**|**Category**|
 | - | - | - |
-|HLR_01|At least 8 characters—the more characters, the better| |
-|HLR_O2|A mixture of both uppercase and lowercase letters.| |
-|HLR_03|A mixture of letters and numbers.| |
-|HLR_04|Inclusion of at least one special character, e.g., @ # ? ] Note: do not use < or > in your password, as both can cause problems in Web browsers.| |
+|HLR_01|At least 8 characters—the more characters, the better|Implemented|
+|HLR_O2|A mixture of both uppercase and lowercase letters.|Implemented|
+|HLR_03|A mixture of letters and numbers.|Implemented|
+|HLR_04|Inclusion of at least one special character, e.g., @ # ? ] Note: do not use < or > in your password, as both can cause problems in Web browsers.|Implemented|
 
